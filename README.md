@@ -1,5 +1,5 @@
 # TCP-file-server
-A file server that transfers files to and from the server machine using TCP protcol.
+A file server that transfers files using TCP protocol.
 
 ## Basic Information
 1. The project is implemented in python.
